@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="src_txt">Enter text to translate</string>
+    <string name="result">Result will be shown here</string>
+    <string name="copy">Copy Translation</string>
+</resources>
